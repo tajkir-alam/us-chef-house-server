@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Gordon Ramsay",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gordon_Ramsay.jpg/220px-Gordon_Ramsay.jpg",
+        "years_of_experience": 30,
+        "num_of_recipes": 100,
+        "likes": 500000
+    },
+    {
+        "id": 2,
+        "name": "Wolfgang Puck",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wolfgang_Puck_2012.jpg/220px-Wolfgang_Puck_2012.jpg",
+        "years_of_experience": 40,
+        "num_of_recipes": 200,
+        "likes": 250000
+    },
+    {
+        "id": 3,
+        "name": "Emeril Lagasse",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Emeril_Lagasse_Chef_Demonstration_2010.jpg/220px-Emeril_Lagasse_Chef_Demonstration_2010.jpg",
+        "years_of_experience": 35,
+        "num_of_recipes": 150,
+        "likes": 200000
+    },
+    {
+        "id": 4,
+        "name": "Christina Tosi",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Christina_Tosi_%28cropped%29.jpg/220px-Christina_Tosi_%28cropped%29.jpg",
+        "years_of_experience": 15,
+        "num_of_recipes": 75,
+        "likes": 150000
+    },
+    {
+        "id": 5,
+        "name": "Cat Cora",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cat_Cora.jpg/220px-Cat_Cora.jpg",
+        "years_of_experience": 20,
+        "num_of_recipes": 120,
+        "likes": 175000
+    },
+    {
+        "id": 6,
+        "name": "Anne Burrell",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Anne_Burrell_2010.jpg/220px-Anne_Burrell_2010.jpg",
+        "years_of_experience": 25,
+        "num_of_recipes": 90,
+        "likes": 125000
+    }
+]
