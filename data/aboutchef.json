@@ -179,96 +179,96 @@
                 "cooking_method": "1. Preheat oven to 350°F. \n2. In a large bowl, cream together flour, sugar, and butter until light and fluffy. \n3. In a separate bowl, whisk together heavy cream, egg yolks, vanilla extract, salt, and cornstarch. \n4. Gradually stir the wet mixture into the dry mixture until just combined. \n5. Pour mixture into a 9-inch pie dish. \n6. Bake for 30-35 minutes, or until the filling is set around the edges and slightly jiggly in the center. \n7. Let the pie cool to room temperature before serving.",
                 "rating": 4.9,
                 "favorite": false
+            }
+        ]
+    },
+    {
+        "chef_name": "Cat Cora",
+        "id": 5,
+        "recipes": [
+            {
+                "recipe_name": "Greek Salad",
+                "ingredients": [
+                    "2 tomatoes, chopped",
+                    "1 cucumber, peeled and chopped",
+                    "1/2 red onion, thinly sliced",
+                    "1/4 cup kalamata olives",
+                    "4 ounces feta cheese, crumbled"
+                ],
+                "cooking_method": "1. Combine tomatoes, cucumber, red onion, and kalamata olives in a large bowl. \n2. Crumble feta cheese on top. \n3. Drizzle with olive oil and red wine vinegar. \n4. Season with salt and pepper to taste. \n5. Toss to combine and serve.",
+                "rating": 4.5,
+                "favorite": false
             },
             {
-                "chef_name": "Cat Cora",
-                "id": 5,
-                "recipes": [
-                    {
-                        "recipe_name": "Greek Salad",
-                        "ingredients": [
-                            "2 tomatoes, chopped",
-                            "1 cucumber, peeled and chopped",
-                            "1/2 red onion, thinly sliced",
-                            "1/4 cup kalamata olives",
-                            "4 ounces feta cheese, crumbled"
-                        ],
-                        "cooking_method": "1. Combine tomatoes, cucumber, red onion, and kalamata olives in a large bowl. \n2. Crumble feta cheese on top. \n3. Drizzle with olive oil and red wine vinegar. \n4. Season with salt and pepper to taste. \n5. Toss to combine and serve.",
-                        "rating": 4.5,
-                        "favorite": false
-                    },
-                    {
-                        "recipe_name": "Lamb Chops",
-                        "ingredients": [
-                            "4 lamb chops",
-                            "1/4 cup olive oil",
-                            "4 garlic cloves, minced",
-                            "1 teaspoon dried oregano",
-                            "1/2 teaspoon salt"
-                        ],
-                        "cooking_method": "1. Preheat grill to high heat. \n2. In a small bowl, mix together olive oil, garlic, oregano, and salt. \n3. Brush the mixture over the lamb chops. \n4. Grill lamb chops for 2-3 minutes per side for medium-rare or to your desired doneness. \n5. Let rest for a few minutes before serving.",
-                        "rating": 4.2,
-                        "favorite": false
-                    },
-                    {
-                        "recipe_name": "Feta and Spinach Stuffed Chicken",
-                        "ingredients": [
-                            "4 boneless, skinless chicken breasts",
-                            "1/2 cup crumbled feta cheese",
-                            "1/2 cup frozen spinach, thawed and squeezed dry",
-                            "1/4 cup chopped sun-dried tomatoes",
-                            "2 cloves garlic, minced"
-                        ],
-                        "cooking_method": "1. Preheat oven to 375°F. \n2. Cut a pocket in each chicken breast. \n3. In a medium bowl, combine feta cheese, spinach, sun-dried tomatoes, and garlic. \n4. Stuff the mixture evenly into the chicken breasts. \n5. Place chicken breasts in a baking dish and bake for 25-30 minutes, until cooked through. \n6. Serve hot.",
-                        "rating": 4.7,
-                        "favorite": false
-                    },
-                    {
-                        "id": 6,
-                        "chef_name": "Anne Burrell",
-                        "recipes": [
-                            {
-                                "name": "Buttermilk Fried Chicken",
-                                "ingredients": [
-                                    "buttermilk",
-                                    "hot sauce",
-                                    "Dijon mustard",
-                                    "chicken drumsticks",
-                                    "vegetable shortening"
-                                ],
-                                "cooking_method": "Combine buttermilk, hot sauce, and Dijon mustard. Marinate chicken in mixture for at least 4 hours. Heat vegetable shortening in a large pot. Fry chicken until golden brown.",
-                                "rating": 4.8,
-                                "favorite": false
-                            },
-                            {
-                                "name": "Classic Meatloaf",
-                                "ingredients": [
-                                    "ground beef",
-                                    "breadcrumbs",
-                                    "milk",
-                                    "onion",
-                                    "ketchup"
-                                ],
-                                "cooking_method": "Preheat oven to 350°F. Mix ground beef, breadcrumbs, milk, onion, and ketchup. Place mixture in a loaf pan. Bake for 1 hour.",
-                                "rating": 4.5,
-                                "favorite": true
-                            },
-                            {
-                                "name": "BBQ Ribs",
-                                "ingredients": [
-                                    "pork ribs",
-                                    "barbecue sauce",
-                                    "brown sugar",
-                                    "smoked paprika",
-                                    "garlic powder"
-                                ],
-                                "cooking_method": "Preheat oven to 325°F. Mix barbecue sauce, brown sugar, smoked paprika, and garlic powder. Brush mixture over pork ribs. Bake for 2.5 hours.",
-                                "rating": 4.7,
-                                "favorite": false
-                            }
-                        ]
-                    }
-                ]
+                "recipe_name": "Lamb Chops",
+                "ingredients": [
+                    "4 lamb chops",
+                    "1/4 cup olive oil",
+                    "4 garlic cloves, minced",
+                    "1 teaspoon dried oregano",
+                    "1/2 teaspoon salt"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. \n2. In a small bowl, mix together olive oil, garlic, oregano, and salt. \n3. Brush the mixture over the lamb chops. \n4. Grill lamb chops for 2-3 minutes per side for medium-rare or to your desired doneness. \n5. Let rest for a few minutes before serving.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Feta and Spinach Stuffed Chicken",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1/2 cup crumbled feta cheese",
+                    "1/2 cup frozen spinach, thawed and squeezed dry",
+                    "1/4 cup chopped sun-dried tomatoes",
+                    "2 cloves garlic, minced"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. \n2. Cut a pocket in each chicken breast. \n3. In a medium bowl, combine feta cheese, spinach, sun-dried tomatoes, and garlic. \n4. Stuff the mixture evenly into the chicken breasts. \n5. Place chicken breasts in a baking dish and bake for 25-30 minutes, until cooked through. \n6. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_name": "Anne Burrell",
+        "recipes": [
+            {
+                "name": "Buttermilk Fried Chicken",
+                "ingredients": [
+                    "buttermilk",
+                    "hot sauce",
+                    "Dijon mustard",
+                    "chicken drumsticks",
+                    "vegetable shortening"
+                ],
+                "cooking_method": "Combine buttermilk, hot sauce, and Dijon mustard. Marinate chicken in mixture for at least 4 hours. Heat vegetable shortening in a large pot. Fry chicken until golden brown.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "name": "Classic Meatloaf",
+                "ingredients": [
+                    "ground beef",
+                    "breadcrumbs",
+                    "milk",
+                    "onion",
+                    "ketchup"
+                ],
+                "cooking_method": "Preheat oven to 350°F. Mix ground beef, breadcrumbs, milk, onion, and ketchup. Place mixture in a loaf pan. Bake for 1 hour.",
+                "rating": 4.5,
+                "favorite": true
+            },
+            {
+                "name": "BBQ Ribs",
+                "ingredients": [
+                    "pork ribs",
+                    "barbecue sauce",
+                    "brown sugar",
+                    "smoked paprika",
+                    "garlic powder"
+                ],
+                "cooking_method": "Preheat oven to 325°F. Mix barbecue sauce, brown sugar, smoked paprika, and garlic powder. Brush mixture over pork ribs. Bake for 2.5 hours.",
+                "rating": 4.7,
+                "favorite": false
             }
         ]
     }

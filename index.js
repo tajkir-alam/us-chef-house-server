@@ -20,7 +20,11 @@ app.get('/chef-about', (req, res) => {
   res.send(chefAbout)
 })
 
-
+app.get('/chef-about/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  const singleChef = chefAbout.find(chef => parseInt(chef.id) === id);
+  res.send(singleChef)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
