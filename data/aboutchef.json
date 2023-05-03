@@ -14,8 +14,7 @@
                     "1/2 teaspoon salt"
                 ],
                 "cooking_method": "1. In a large mixing bowl, combine ground beef, bread crumbs, egg, Worcestershire sauce, and salt. Mix well. \n2. Divide mixture into 4 equal portions and form into patties. \n3. Heat grill to medium-high heat. \n4. Cook burgers for 4-5 minutes per side, or until desired doneness is reached. \n5. Serve on toasted buns with your favorite toppings.",
-                "rating": 4.5,
-                "favorite": false
+                "rating": 4.5
             },
             {
                 "recipe_name": "New England Clam Chowder",
@@ -28,8 +27,7 @@
                     "4 cups clam juice"
                 ],
                 "cooking_method": "1. In a large soup pot, cook bacon over medium heat until crispy. \n2. Add onion, celery, and garlic to the pot and cook until softened. \n3. Add clam juice, potatoes, and thyme to the pot and bring to a boil. \n4. Reduce heat and simmer for 15-20 minutes, or until potatoes are tender. \n5. Add clams and cook for an additional 5-10 minutes, or until clams are heated through. \n6. Serve hot with crusty bread.",
-                "rating": 4.2,
-                "favorite": false
+                "rating": 4.2
             },
             {
                 "recipe_name": "Pulled Pork Sandwich",
@@ -42,8 +40,7 @@
                     "1/2 teaspoon black pepper"
                 ],
                 "cooking_method": "1. Rub pork shoulder with paprika, garlic powder, salt, and pepper. \n2. Heat a large skillet over medium-high heat and sear the pork on all sides until browned. \n3. Transfer the pork to a slow cooker and cook on low for 6-8 hours, or until tender. \n4. Remove pork from slow cooker and shred with a fork. \n5. Serve on a bun with your favorite barbecue sauce.",
-                "rating": 4.8,
-                "favorite": false
+                "rating": 4.8
             }
         ]
     },
@@ -62,8 +59,7 @@
                     "1 tablespoon garlic powder"
                 ],
                 "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour, or overnight. \n2. Combine flour, paprika, and garlic powder in a large bowl. \n3. Remove chicken from buttermilk and dredge in flour mixture. \n4. Heat a large skillet over medium-high heat and add enough oil to cover the bottom. \n5. Fry chicken in batches for 5-7 minutes per side, or until golden brown and crispy. \n6. Drain on paper towels and serve hot.",
-                "rating": 4.7,
-                "favorite": false
+                "rating": 4.7
             },
             {
                 "recipe_name": "Shrimp and Grits",
@@ -76,8 +72,7 @@
                     "1 onion, chopped"
                 ],
                 "cooking_method": "1. Bring chicken broth to a boil in a large pot. \n2. Slowly whisk in grits and reduce heat to low. \n3. Cover and cook for 20-25 minutes, stirring occasionally. \n4. In a separate skillet, cook bacon until crispy. \n5. Remove bacon from skillet and add onion. Cook until softened. \n6. Add shrimp to the skillet and cook until pink. \n7. Serve shrimp and onion mixture over a bed of grits, topped with crumbled bacon.",
-                "rating": 4.3,
-                "favorite": false
+                "rating": 4.3
             },
             {
                 "recipe_name": "BBQ Ribs",
@@ -90,8 +85,7 @@
                     "1 teaspoon salt"
                 ],
                 "cooking_method": "1. Preheat oven to 300 degrees F. \n2. Combine chili powder, garlic powder, and salt in a small bowl. Rub mixture over both sides of ribs. \n3. Wrap ribs tightly in aluminum foil and place on a baking sheet. \n4. Bake for 2-3 hours, or until ribs are tender. \n5. Remove ribs from foil and place on a grill over medium-high heat. \n6. Brush with barbecue sauce and grill for 10-15 minutes, or until sauce is caramelized. \n7. Serve hot with additional barbecue sauce on the side.",
-                "rating": 4.6,
-                "favorite": false
+                "rating": 4.6
             }
         ]
     },
@@ -110,8 +104,7 @@
                     "4 lettuce leaves"
                 ],
                 "cooking_method": "1. Preheat grill to medium-high heat. \n2. Divide ground beef into 4 equal portions and shape into patties. \n3. Season patties with salt and pepper. \n4. Grill patties for 4-5 minutes per side, or until cooked through. \n5. Top each patty with a slice of cheese and allow to melt. \n6. Toast hamburger buns on the grill. \n7. Assemble burgers by placing lettuce and tomato on the bottom bun, followed by the cheeseburger patty. \n8. Serve hot with your choice of condiments.",
-                "rating": 4.5,
-                "favorite": false
+                "rating": 4.5
             },
             {
                 "recipe_name": "Grilled Chicken Caesar Salad",
@@ -124,8 +117,7 @@
                     "1/2 cup croutons"
                 ],
                 "cooking_method": "1. Preheat grill to medium-high heat. \n2. Season chicken breasts with salt and pepper. \n3. Grill chicken for 6-8 minutes per side, or until cooked through. \n4. Let chicken rest for 5 minutes before slicing. \n5. In a large bowl, combine chopped romaine, Caesar dressing, and grated Parmesan cheese. Toss to coat. \n6. Top salad with sliced chicken and croutons. \n7. Serve immediately.",
-                "rating": 4.2,
-                "favorite": false
+                "rating": 4.2
             },
             {
                 "recipe_name": "Macaroni and Cheese",
@@ -138,8 +130,7 @@
                     "2 cups shredded cheddar cheese"
                 ],
                 "cooking_method": "1. Preheat oven to 350 degrees F. \n2. Cook elbow macaroni according to package instructions. \n3. In a large saucepan, melt butter over medium heat. \n4. Whisk in flour and cook for 1-2 minutes. \n5. Gradually whisk in milk, stirring constantly. \n6. Cook for 5-7 minutes, or until sauce has thickened. \n7. Remove from heat and stir in shredded cheddar cheese until melted. \n8. Add cooked macaroni to cheese sauce and stir to combine. \n9. Transfer macaroni and cheese to a baking dish and bake for 20-25 minutes, or until bubbly and golden brown. \n10. Serve hot.",
-                "rating": 4.6,
-                "favorite": false
+                "rating": 4.6
             }
         ]
     },
@@ -159,8 +150,7 @@
                     "1 cup whole milk"
                 ],
                 "cooking_method": "1. Preheat oven to 350°F. \n2. Grease and flour two 8-inch cake pans. \n3. In a large bowl, whisk together flour, sugar, baking powder, and salt. \n4. In a separate bowl, cream butter until smooth. \n5. Add milk, eggs, and vanilla extract and mix until combined. \n6. Gradually stir in dry ingredients until just combined. \n7. Fold in rainbow sprinkles. \n8. Pour batter evenly into prepared cake pans. \n9. Bake for 25-30 minutes, or until a toothpick inserted into the center of the cakes comes out clean. \n10. Let cakes cool completely before frosting and assembling.",
-                "rating": 4.8,
-                "favorite": false
+                "rating": 4.8
             },
             {
                 "recipe_name": "Cornflake Chocolate Chip Marshmallow Cookies",
@@ -174,8 +164,7 @@
                     "1 cup granulated sugar"
                 ],
                 "cooking_method": "1. Preheat oven to 350°F. \n2. Line baking sheets with parchment paper. \n3. In a large bowl, whisk together flour, baking powder, baking soda, and salt. \n4. In a separate bowl, cream butter and sugars until light and fluffy. \n5. Add eggs and vanilla extract and mix until combined. \n6. Gradually stir in dry ingredients until just combined. \n7. Fold in cornflakes, chocolate chips, and mini marshmallows. \n8. Drop dough by heaping tablespoons onto prepared baking sheets. \n9. Bake for 12-15 minutes, or until golden brown. \n10. Let cookies cool on baking sheets for 5 minutes before transferring to a wire rack to cool completely.",
-                "rating": 4.6,
-                "favorite": false
+                "rating": 4.6
             },
             {
                 "recipe_name": "Milk Bar Pie",
@@ -189,8 +178,7 @@
                     "1 teaspoon vanilla extract"
                 ],
                 "cooking_method": "1. Preheat oven to 350°F. \n2. In a large bowl, cream together flour, sugar, and butter until light and fluffy. \n3. In a separate bowl, whisk together heavy cream, egg yolks, vanilla extract, salt, and cornstarch. \n4. Gradually stir the wet mixture into the dry mixture until just combined. \n5. Pour mixture into a 9-inch pie dish. \n6. Bake for 30-35 minutes, or until the filling is set around the edges and slightly jiggly in the center. \n7. Let the pie cool to room temperature before serving.",
-                "rating": 4.9,
-                "favorite": false
+                "rating": 4.9
             }
         ]
     },
@@ -209,8 +197,7 @@
                     "4 ounces feta cheese, crumbled"
                 ],
                 "cooking_method": "1. Combine tomatoes, cucumber, red onion, and kalamata olives in a large bowl. \n2. Crumble feta cheese on top. \n3. Drizzle with olive oil and red wine vinegar. \n4. Season with salt and pepper to taste. \n5. Toss to combine and serve.",
-                "rating": 4.5,
-                "favorite": false
+                "rating": 4.5
             },
             {
                 "recipe_name": "Lamb Chops",
@@ -223,8 +210,7 @@
                     "1/2 teaspoon salt"
                 ],
                 "cooking_method": "1. Preheat grill to high heat. \n2. In a small bowl, mix together olive oil, garlic, oregano, and salt. \n3. Brush the mixture over the lamb chops. \n4. Grill lamb chops for 2-3 minutes per side for medium-rare or to your desired doneness. \n5. Let rest for a few minutes before serving.",
-                "rating": 4.2,
-                "favorite": false
+                "rating": 4.2
             },
             {
                 "recipe_name": "Feta and Spinach Stuffed Chicken",
@@ -237,8 +223,7 @@
                     "2 cloves garlic, minced"
                 ],
                 "cooking_method": "1. Preheat oven to 375°F. \n2. Cut a pocket in each chicken breast. \n3. In a medium bowl, combine feta cheese, spinach, sun-dried tomatoes, and garlic. \n4. Stuff the mixture evenly into the chicken breasts. \n5. Place chicken breasts in a baking dish and bake for 25-30 minutes, until cooked through. \n6. Serve hot.",
-                "rating": 4.7,
-                "favorite": false
+                "rating": 4.7
             }
         ]
     },
@@ -257,8 +242,7 @@
                     "1 tablespoon garlic powder"
                 ],
                 "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour, or overnight. \n2. Combine flour, paprika, and garlic powder in a large bowl. \n3. Remove chicken from buttermilk and dredge in flour mixture. \n4. Heat a large skillet over medium-high heat and add enough oil to cover the bottom. \n5. Fry chicken in batches for 5-7 minutes per side, or until golden brown and crispy. \n6. Drain on paper towels and serve hot.",
-                "rating": 4.7,
-                "favorite": false
+                "rating": 4.7
             },
             {
                 "recipe_name": "Shrimp and Grits",
@@ -271,8 +255,7 @@
                     "1 onion, chopped"
                 ],
                 "cooking_method": "1. Bring chicken broth to a boil in a large pot. \n2. Slowly whisk in grits and reduce heat to low. \n3. Cover and cook for 20-25 minutes, stirring occasionally. \n4. In a separate skillet, cook bacon until crispy. \n5. Remove bacon from skillet and add onion. Cook until softened. \n6. Add shrimp to the skillet and cook until pink. \n7. Serve shrimp and onion mixture over a bed of grits, topped with crumbled bacon.",
-                "rating": 4.3,
-                "favorite": false
+                "rating": 4.3
             },
             {
                 "recipe_name": "BBQ Ribs",
@@ -285,8 +268,7 @@
                     "1 teaspoon salt"
                 ],
                 "cooking_method": "1. Preheat oven to 300 degrees F. \n2. Combine chili powder, garlic powder, and salt in a small bowl. Rub mixture over both sides of ribs. \n3. Wrap ribs tightly in aluminum foil and place on a baking sheet. \n4. Bake for 2-3 hours, or until ribs are tender. \n5. Remove ribs from foil and place on a grill over medium-high heat. \n6. Brush with barbecue sauce and grill for 10-15 minutes, or until sauce is caramelized. \n7. Serve hot with additional barbecue sauce on the side.",
-                "rating": 4.6,
-                "favorite": false
+                "rating": 4.6
             }
         ]
     }
