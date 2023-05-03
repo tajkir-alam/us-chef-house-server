@@ -5,6 +5,7 @@
         "recipes": [
             {
                 "recipe_name": "Classic American Burger",
+                "recipe_img": "https://i.ibb.co/0sgTf8J/Classic-American-Burger.jpg",
                 "ingredients": [
                     "1 pound ground beef",
                     "1/4 cup bread crumbs",
@@ -18,6 +19,7 @@
             },
             {
                 "recipe_name": "New England Clam Chowder",
+                "recipe_img": "https://i.ibb.co/FJc7S42/New-England-Clam-Chowder.jpg",
                 "ingredients": [
                     "4 slices bacon, chopped",
                     "1 onion, chopped",
@@ -31,6 +33,7 @@
             },
             {
                 "recipe_name": "Pulled Pork Sandwich",
+                "recipe_img": "https://i.ibb.co/cxCN7MS/Pork-Sandwich.jpg",
                 "ingredients": [
                     "2-3 pound pork shoulder",
                     "1 tablespoon paprika",
@@ -50,6 +53,7 @@
         "recipes": [
             {
                 "recipe_name": "Buttermilk Fried Chicken",
+                "recipe_img": "https://i.ibb.co/r6P3nd1/bbqRibs.jpg",
                 "ingredients": [
                     "1 whole chicken, cut into 8 pieces",
                     "2 cups buttermilk",
@@ -63,6 +67,7 @@
             },
             {
                 "recipe_name": "Shrimp and Grits",
+                "recipe_img": "https://i.ibb.co/r6P3nd1/bbqRibs.jpg",
                 "ingredients": [
                     "1 cup stone-ground grits",
                     "4 cups chicken broth",
@@ -76,6 +81,7 @@
             },
             {
                 "recipe_name": "BBQ Ribs",
+                "recipe_img": "https://i.ibb.co/CJ4fty9/Shrimp-Grits.jpg",
                 "ingredients": [
                     "2 racks pork ribs",
                     "2 cups barbecue sauce",
@@ -95,6 +101,7 @@
         "recipes": [
             {
                 "recipe_name": "Classic Cheeseburger",
+                "recipe_img": "https://i.ibb.co/0sgTf8J/Classic-American-Burger.jpg",
                 "ingredients": [
                     "1 pound ground beef",
                     "4 slices cheddar cheese",
@@ -108,6 +115,7 @@
             },
             {
                 "recipe_name": "Grilled Chicken Caesar Salad",
+                "recipe_img": "https://i.ibb.co/C6wD9F5/Grilled-Chicken-Caesar-Salad.jpg",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1 head romaine lettuce, chopped",
@@ -121,6 +129,7 @@
             },
             {
                 "recipe_name": "Macaroni and Cheese",
+                "recipe_img": "https://i.ibb.co/KxjNTC5/Macaroni-Cheese.jpg",
                 "ingredients": [
                     "1 pound elbow macaroni",
                     "4 tablespoons butter",
@@ -140,6 +149,7 @@
         "recipes": [
             {
                 "recipe_name": "Birthday Cake",
+                "recipe_img": "https://i.ibb.co/FJc7S42/New-England-Clam-Chowder.jpg",
                 "ingredients": [
                     "3 cups all-purpose flour",
                     "2 cups sugar",
@@ -154,6 +164,7 @@
             },
             {
                 "recipe_name": "Cornflake Chocolate Chip Marshmallow Cookies",
+                "recipe_img": "https://i.ibb.co/CJ4fty9/Shrimp-Grits.jpg",
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 teaspoon baking powder",
@@ -168,6 +179,7 @@
             },
             {
                 "recipe_name": "Milk Bar Pie",
+                "recipe_img": "",
                 "ingredients": [
                     "1 1/2 cups all-purpose flour",
                     "1 cup granulated sugar",
@@ -188,6 +200,7 @@
         "recipes": [
             {
                 "recipe_name": "Greek Salad",
+                "recipe_img": "https://i.ibb.co/0sgTf8J/Classic-American-Burger.jpg",
                 "ingredients": [
                     "2 tomatoes, chopped",
                     "1 cucumber, peeled and chopped",
@@ -201,6 +214,7 @@
             },
             {
                 "recipe_name": "Lamb Chops",
+                "recipe_img": "https://i.ibb.co/r6P3nd1/bbqRibs.jpg",
                 "ingredients": [
                     "4 lamb chops",
                     "1/4 cup olive oil",
@@ -214,6 +228,7 @@
             },
             {
                 "recipe_name": "Feta and Spinach Stuffed Chicken",
+                "recipe_img": "https://i.ibb.co/KxjNTC5/Macaroni-Cheese.jpg",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup crumbled feta cheese",
@@ -228,46 +243,49 @@
         ]
     },
     {
+        "chef_name": "Anna Burrell",
         "id": 6,
-        "chef_name": "Anne Burrell",
         "recipes": [
             {
-                "name": "Buttermilk Fried Chicken",
+                "recipe_name": "Buttermilk Fried Chicken",
+                "recipe_img": "https://i.ibb.co/r6P3nd1/bbqRibs.jpg",
                 "ingredients": [
-                    "buttermilk",
-                    "hot sauce",
-                    "Dijon mustard",
-                    "chicken drumsticks",
-                    "vegetable shortening"
+                    "1 whole chicken, cut into 8 pieces",
+                    "2 cups buttermilk",
+                    "2 cups all-purpose flour",
+                    "1 tablespoon paprika",
+                    "1 tablespoon garlic powder"
                 ],
-                "cooking_method": "Combine buttermilk, hot sauce, and Dijon mustard. Marinate chicken in mixture for at least 4 hours. Heat vegetable shortening in a large pot. Fry chicken until golden brown.",
-                "rating": 4.8,
+                "cooking_method": "1. Soak chicken pieces in buttermilk for at least 1 hour, or overnight. \n2. Combine flour, paprika, and garlic powder in a large bowl. \n3. Remove chicken from buttermilk and dredge in flour mixture. \n4. Heat a large skillet over medium-high heat and add enough oil to cover the bottom. \n5. Fry chicken in batches for 5-7 minutes per side, or until golden brown and crispy. \n6. Drain on paper towels and serve hot.",
+                "rating": 4.7,
                 "favorite": false
             },
             {
-                "name": "Classic Meatloaf",
+                "recipe_name": "Shrimp and Grits",
+                "recipe_img": "https://i.ibb.co/r6P3nd1/bbqRibs.jpg",
                 "ingredients": [
-                    "ground beef",
-                    "breadcrumbs",
-                    "milk",
-                    "onion",
-                    "ketchup"
+                    "1 cup stone-ground grits",
+                    "4 cups chicken broth",
+                    "1 pound shrimp, peeled and deveined",
+                    "4 slices bacon, chopped",
+                    "1 onion, chopped"
                 ],
-                "cooking_method": "Preheat oven to 350°F. Mix ground beef, breadcrumbs, milk, onion, and ketchup. Place mixture in a loaf pan. Bake for 1 hour.",
-                "rating": 4.5,
-                "favorite": true
+                "cooking_method": "1. Bring chicken broth to a boil in a large pot. \n2. Slowly whisk in grits and reduce heat to low. \n3. Cover and cook for 20-25 minutes, stirring occasionally. \n4. In a separate skillet, cook bacon until crispy. \n5. Remove bacon from skillet and add onion. Cook until softened. \n6. Add shrimp to the skillet and cook until pink. \n7. Serve shrimp and onion mixture over a bed of grits, topped with crumbled bacon.",
+                "rating": 4.3,
+                "favorite": false
             },
             {
-                "name": "BBQ Ribs",
+                "recipe_name": "BBQ Ribs",
+                "recipe_img": "https://i.ibb.co/CJ4fty9/Shrimp-Grits.jpg",
                 "ingredients": [
-                    "pork ribs",
-                    "barbecue sauce",
-                    "brown sugar",
-                    "smoked paprika",
-                    "garlic powder"
+                    "2 racks pork ribs",
+                    "2 cups barbecue sauce",
+                    "1 tablespoon chili powder",
+                    "1 tablespoon garlic powder",
+                    "1 teaspoon salt"
                 ],
-                "cooking_method": "Preheat oven to 325°F. Mix barbecue sauce, brown sugar, smoked paprika, and garlic powder. Brush mixture over pork ribs. Bake for 2.5 hours.",
-                "rating": 4.7,
+                "cooking_method": "1. Preheat oven to 300 degrees F. \n2. Combine chili powder, garlic powder, and salt in a small bowl. Rub mixture over both sides of ribs. \n3. Wrap ribs tightly in aluminum foil and place on a baking sheet. \n4. Bake for 2-3 hours, or until ribs are tender. \n5. Remove ribs from foil and place on a grill over medium-high heat. \n6. Brush with barbecue sauce and grill for 10-15 minutes, or until sauce is caramelized. \n7. Serve hot with additional barbecue sauce on the side.",
+                "rating": 4.6,
                 "favorite": false
             }
         ]
